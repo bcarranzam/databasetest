@@ -1,3 +1,5 @@
+App.js contains the JavaScript code and logic.
+
 # Steps to run it
 1. Download the project from GitHub.
 2. Download and install npm in the project's folder':
